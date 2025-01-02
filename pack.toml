@@ -1,0 +1,12 @@
+name = "minecraft-cenechat-kings"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "331fb61217d909f4d3d5f44e08280f93c574d405d66829557d530c68a2ba283f"
+
+[versions]
+forge = "47.3.0"
+minecraft = "1.20.1"
