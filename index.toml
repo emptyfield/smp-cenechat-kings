@@ -15,6 +15,11 @@ hash = "79592259e6f79f078bc8a8cf373682dc4c8b4b7b0ac743fa26509aa4da8c70d2"
 metafile = true
 
 [[files]]
+file = "mods/chunky-pregenerator-forge.pw.toml"
+hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight-forge.pw.toml"
 hash = "5afdf867661d932187f67966244dd9e2b4fb7ee777f0e517d7303084fd87fc37"
 metafile = true
