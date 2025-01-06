@@ -17,6 +17,8 @@ services:
       DIFFICULTY: easy
       VERSION: 1.20.1
       TYPE: FORGE
+      RCON_CMDS_STARTUP: |-
+        gamerule playersSleepingPercentage 50
     env_file:
       - .env
     restart: unless-stopped
