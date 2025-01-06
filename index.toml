@@ -1,6 +1,158 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "6c7926e55664e4ecddd198c1eeb696afe0f14c4eace6aec090f23241bc8dd1f8"
+
+[[files]]
+file = "config/bettervillage_1.properties"
+hash = "f640f7f5e8e03ed75e108db07312c1a56147750191a82e13e6f4b9da967fefcb"
+
+[[files]]
+file = "config/biomesoplenty/biome_toggles.json"
+hash = "6184168c00c4f45e874e0043304992c67beb5d5306e6150dec4f79dd4dd24b71"
+
+[[files]]
+file = "config/biomesoplenty/generation.toml"
+hash = "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7"
+
+[[files]]
+file = "config/carbonconfig.cfg"
+hash = "4aa7fe943a5abf6f1e588e39cff07a69dbbdee3cbba30ad14c5c2159db0862c5"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
+
+[[files]]
+file = "config/ends_delight-common.toml"
+hash = "f4fc0c0f40bac8b5243141374a6df6eabc993ecd989559ffe8b9fd908bf46982"
+
+[[files]]
+file = "config/epicfight-client.toml"
+hash = "75a342ac6ce4290ae3678bbd1b7710a489e33d1056d57993219a91585abeb6ec"
+
+[[files]]
+file = "config/epicfight.toml"
+hash = "76a9dda0ce0ee5f1eaabed312f6e9f79a0e334b6fc03504825c40cd434b63ba9"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
+
+[[files]]
+file = "config/fml.toml"
+hash = "1933a51bdab9503d1cf2bcf9fd98f5c3f04d2538639e5a8fe73690188bff0e68"
+
+[[files]]
+file = "config/forge-client.toml"
+hash = "7bc724152ad613fc492e7439074edeed178bc3405fc80a741add5ab562626684"
+
+[[files]]
+file = "config/fps-client.toml"
+hash = "40800c445010f4d56fff80ad6169552c9af6ed0def42bd34ef7558a87dfabb35"
+
+[[files]]
+file = "config/jei/blacklist.cfg"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/jei/ingredient-list-mod-sort-order.ini"
+hash = "0868cd8b4d1bdd87737d46ec938cc24550e2569c6e2642e29de13d561f8dbb70"
+
+[[files]]
+file = "config/jei/ingredient-list-type-sort-order.ini"
+hash = "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878"
+
+[[files]]
+file = "config/jei/jei-client.ini"
+hash = "cc27b0607a31e0281af32da814ea054bf30667e30183ba26374cdd6528187ef2"
+
+[[files]]
+file = "config/jei/jei-colors.ini"
+hash = "c6328dcf3fb8b20a9f6ea6b61266ce289565c167353e183a105fb4915c36c072"
+
+[[files]]
+file = "config/jei/jei-debug.ini"
+hash = "a3a73e41687bcb80e3d303677125bda5929e611ae4b3ca44af9ba54e25eb4c88"
+
+[[files]]
+file = "config/jei/jei-mod-id-format.ini"
+hash = "34eb990ae2cf62220a0d1be95629bcac46e6732f1cd6f7b6fdc54bcae02916e5"
+
+[[files]]
+file = "config/jei/recipe-category-sort-order.ini"
+hash = "fd0809b291f947cf698718dea691b85dee369cec24c8235f4d3dca42797e4f88"
+
+[[files]]
+file = "config/jei/world/local/New_World__1/bookmarks.ini"
+hash = "e8bf10d598adb1cd76d2338f20c861ad0bb4041674f6acad0654b7bb66f83041"
+
+[[files]]
+file = "config/jei/world/server/Minecraft_Server_6747c22/bookmarks.ini"
+hash = "5d1d552401bf6047a5779bc4339597e9a7489f08d7417ae6d08211adeb984d38"
+
+[[files]]
+file = "config/libraryferret_1.properties"
+hash = "a802e420e9a82d7c7e8431fdb100346854e4613839efa6bf86ccfdbc386f55c1"
+
+[[files]]
+file = "config/musketmod.txt"
+hash = "5eaff93c32b67e5016d4076d42a3bd3175804bce0e06b6c487331aa32ca525bf"
+
+[[files]]
+file = "config/oldguns-common.toml"
+hash = "f2da12b6e8a41bad7f41a101984c3cd1c0456a08dd6d7331834f1e89bb909b60"
+
+[[files]]
+file = "config/pregen/base.cfg"
+hash = "0d4a57742006213d07459ad42630e87b9a1161e60085a5c6cb7b633a8426b7d0"
+
+[[files]]
+file = "config/recruits-client.toml"
+hash = "71596438954263f94de196772b545dbdaa28e0e347a5395dd2f8947dfc79a9ce"
+
+[[files]]
+file = "config/rubidium-mixins.properties"
+hash = "28e5b8f2e7d93aa4a086c908e6fe135055d1ebda0eb5465d165e1d3790f34a1b"
+
+[[files]]
+file = "config/rubidium-options.json"
+hash = "515a81423ac49422eccc28c17295ca8c6c3b7df3a8b4143d8259d25d864e2a5d"
+
+[[files]]
+file = "config/smallships-client.toml"
+hash = "2055d621b5cb01a3a0cc7134bb97d8109f56152938131f7c31bf27b28c264f9b"
+
+[[files]]
+file = "config/smallships-common.toml"
+hash = "0c89c2c56094816dcad1d0693cb52dbb61720797d8b2b0e2d25f9937a464de56"
+
+[[files]]
+file = "config/structureessentials.json"
+hash = "34e14e20cd7ffa970d0bcdea197741519357ae7162f1f458d598da244ac19bea"
+
+[[files]]
+file = "config/tectonic.json"
+hash = "8cc0e09d587ca52bbff30ffa48d8583ad1eb3f3a81bfc58fa6837235bc3115d0"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "11ef4c2666fa094b456310710c2b5cb8babbd71982d4d187c9a80ad4011d8014"
+
+[[files]]
+file = "config/wom-client.toml"
+hash = "6ea17d46991b7c87ef71ce3e8adfc95d64dcf06d1e7d3bf95ee7f493dbf42426"
+
+[[files]]
+file = "config/wom.toml"
+hash = "2044993835df6164e7bcc59932578948b32a575a2d740a6b0a0bb48a846c0d1d"
+
+[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "9000c242f5c0d1952a733ef45a6d6256f32fbef8cc6e38ac272410e92b1a9bda"
 metafile = true
@@ -47,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/fps-monitor.pw.toml"
-hash = "b8c5502b525d395e30dfdff69128a10bd3936e05f2610bdcbca568cab54bdd35"
+hash = "b3a7be405919d5cdf64d6c9ae5b8d520a9b3eae5a82ed7e555f8cd9b06813a7a"
 metafile = true
 
 [[files]]
@@ -87,7 +239,7 @@ metafile = true
 
 [[files]]
 file = "mods/rubidium.pw.toml"
-hash = "561dd511de15a2a35535bad21196df592095f1405ec84456b6db74ae0881a3a6"
+hash = "875f489328325835edfef7c6cc404209d44d479969602b6693242b72a0cc92d5"
 metafile = true
 
 [[files]]
@@ -98,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/small-ships.pw.toml"
 hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "d0e1a79dbcda8499e0f12f4adaa5503f9bbc84a6274ce07b3a3839476622e8e5"
 metafile = true
 
 [[files]]
