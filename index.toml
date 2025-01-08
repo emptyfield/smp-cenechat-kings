@@ -115,6 +115,11 @@ hash = "88bdb37465eaaeea366e49cb9cee56a4b7165e7dba43c00f7825b38d2beafcdb"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "99437fda2f62b603601e369a182c9d027034e55b854997c40f0391a7112747ac"
+metafile = true
+
+[[files]]
 file = "mods/small-ships.pw.toml"
 hash = "a2641c9187ec8485df45b2fb25c901f835da50ffe4d9601e4ecc81fc9036eb55"
 metafile = true
