@@ -14,7 +14,7 @@ services:
       MOTD: "\u00a74\u00a7l\u00a7kyy\u00a74\u00a7l\u0412\u043e\u043d\u043e \u043d\u0430\u0440\u043e\u0434\u0438\u043b\u043e\u0441\u044f\u00a74\u00a7l\u00a7kyy"
       ENABLE_WHITELIST: true
       ENFORCE_SECURE_PROFILE: false
-      DIFFICULTY: easy
+      DIFFICULTY: hard
       VERSION: 1.20.1
       TYPE: FORGE
       RCON_CMDS_STARTUP: |-
