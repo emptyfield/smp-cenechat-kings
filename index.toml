@@ -20,7 +20,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunky-pregenerator-forge.pw.toml"
-hash = "7d3fded0a343b2953e2a77fd1d2ed7abc547d7008f5b1b842546f28b8df1b802"
+hash = "07bcc84f632e4b6479d21477d913db014ca1c452cbca8c0b41e629862277b596"
 metafile = true
 
 [[files]]
@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "05796c1a9f35a5af165f54b733c85470e9354196d91b69505a301d96ef8599d0"
+hash = "725a9b8f4617f26a7258571a9d74de388fa727f2fdac2d393deb6a39fb93d0f1"
 metafile = true
 
 [[files]]
