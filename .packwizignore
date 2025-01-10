@@ -4,6 +4,11 @@
 # Exclude README
 /README.md
 
+.git/
+.github/
+.gitignore
+.gitattributes
+
 docker-compose.yml
 data/
 .env

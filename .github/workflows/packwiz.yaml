@@ -1,0 +1,58 @@
+# Example from
+# https://github.com/doctorray117/minecraft-ondemand/issues/24
+# https://github.com/PepsiDogs/pepsipack/blob/main/.github/workflows/packwiz.yml
+---
+name: packwiz-ci
+
+on: [push]
+
+permissions:
+  contents: read
+  deployments: write
+  id-token: write
+  pages: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+          lfs: true
+
+      - name: Set up packwiz
+        uses: actions/setup-go@v4
+        with:
+          go-version: stable
+      - run: go install github.com/packwiz/packwiz@latest
+
+      - name: Packwiz refresh build
+        run: packwiz refresh --build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v1
+        with:
+          # Upload entire repository
+          path: .
+
+  deploy:
+    needs: build
+    if: ${{github.ref == 'refs/heads/main' }}
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v2
