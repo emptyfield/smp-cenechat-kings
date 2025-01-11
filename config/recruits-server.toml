@@ -30,7 +30,7 @@
 	#	(takes effect after restart)
 	#	default: 64
 	#Range: 1 ~ 1453
-	MaxRecruitsForPlayer = 40
+	MaxRecruitsForPlayer = 50
 	#
 	#Target Blacklist
 	#	(takes effect after restart)
