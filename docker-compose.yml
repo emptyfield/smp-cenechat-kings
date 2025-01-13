@@ -18,6 +18,7 @@ services:
       DIFFICULTY: hard
       VERSION: 1.20.1
       TYPE: FORGE
+      ALLOW_FLIGHT: true
       RCON_CMDS_STARTUP: |-
         gamerule playersSleepingPercentage 50
     env_file:
