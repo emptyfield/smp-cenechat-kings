@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/recruits-server.toml"
-hash = "5519034cf0f2676d17faa54517b36b9643bd1d5acb70089bb3ffcee354237a2a"
-
-[[files]]
-file = "journeymap/server/5.10/journeymap.server.global.config"
-hash = "d00ca00076d06e24e46c4bb65e13ab9f83df0afe90cf388f7677a0432ed9c8f4"
-
-[[files]]
 file = "mods/better-village-forge.pw.toml"
 hash = "9000c242f5c0d1952a733ef45a6d6256f32fbef8cc6e38ac272410e92b1a9bda"
 metafile = true
@@ -177,3 +169,7 @@ metafile = true
 file = "mods/terrablender.pw.toml"
 hash = "97175f71f202d2d47a5828568c9f53339952a1c20b09378bdf5ad34557a8b4be"
 metafile = true
+
+[[files]]
+file = "world/serverconfig/recruits-server.toml"
+hash = "583e6b8809052aee6c46c3184769081d6043803b5ce11ae1d813a3ef16b04ff5"
